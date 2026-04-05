@@ -1,5 +1,0 @@
-incident_id,change_id,incident_summary,root_cause,resolution
-101,1,Payment transactions failed after deployment,Schema mismatch between app and DB,Rolled back schema and redeployed API
-102,2,Users unable to log in after auth upgrade,Token validation bug,Patched validation logic
-103,3,Reports did not run on schedule,Cron configuration error,Corrected scheduler config
-104,1,Checkout flow timed out after release,Slow DB migration,Optimized migration and restarted service
