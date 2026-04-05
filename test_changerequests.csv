@@ -1,5 +1,0 @@
-change_id,description,service,change_type,risk_level
-1,Deploy payment API with database schema change,payments,database,High
-2,Upgrade authentication service from v1 to v2,auth,application,Medium
-3,Migrate reporting jobs to new scheduler,reporting,infrastructure,Medium
-4,Update UI labels for customer dashboard,frontend,ui,Low
